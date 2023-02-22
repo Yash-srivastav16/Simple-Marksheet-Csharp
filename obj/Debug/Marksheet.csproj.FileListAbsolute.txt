@@ -1,0 +1,8 @@
+D:\Projects\C#\Marksheet\Marksheet\bin\Debug\Marksheet.exe.config
+D:\Projects\C#\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+D:\Projects\C#\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+D:\Projects\C#\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.AssemblyReference.cache
+D:\Projects\C#\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+D:\Projects\C#\Marksheet\Marksheet\obj\Debug\Marksheet.pdb
